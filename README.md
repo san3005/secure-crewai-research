@@ -1,4 +1,4 @@
-# Smart Research Assistant: CrewAI + Security 🔍 🛡️
+# Secure Research Assistant: CrewAI + Security 🔍 🛡️
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
@@ -113,4 +113,5 @@ graph TD
 - Markdown2: Markdown processing
 
 ###### Tags: `AI` `LLM` `Security` `CrewAI` `Python`
+
 # secure-crewai-research
