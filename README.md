@@ -1,10 +1,8 @@
 # Secure Research Assistant: CrewAI + Security 🔍 🛡️
 
 ![Python](https://img.shields.io/badge/python-v3.8+-blue.svg)
-![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![CrewAI](https://img.shields.io/badge/CrewAI-0.41.1-orange.svg)
 ![OpenAI](https://img.shields.io/badge/OpenAI-API-brightgreen.svg)
-![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-brightgreen.svg)
 
 This project implements an advanced Large Language Model (LLM) system using CrewAI, featuring robust security guardrails and intelligent agents for comprehensive information processing and analysis. 🔍
 
@@ -77,9 +75,7 @@ first_crew.kickoff(inputs={'user_input': user_input})
 
 Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
 
-## 📝 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🔐 Security Features
 
@@ -112,6 +108,5 @@ graph TD
 - WeasyPrint: PDF generation
 - Markdown2: Markdown processing
 
-###### Tags: `AI` `LLM` `Security` `CrewAI` `Python`
+###### Tags: `AI` `LLM` `Security` `CrewAI` `Python` `Guardrails` `Agentic`
 
-# secure-crewai-research
