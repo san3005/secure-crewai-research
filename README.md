@@ -25,7 +25,7 @@ This project implements an advanced Large Language Model (LLM) system using Crew
 
 ```bash
 git clone https://github.com/san3005/secure-crewai-research.git
-cd llm-project
+cd secure-crewai-research
 ```
 
 2. Install required packages:
